@@ -2,7 +2,7 @@
 A workout planning mobile app based around crowdsourced user exercises. Users are able to build workouts of several exercises, and then see the cumulative effect heat-mapped onto the muscles of a 3D rendered mannequin. 
 
 ## Front End
-The front end is a mobile app for ios and android built using react native and expo. It makes calls to a server for workouts, muscles, exercises and users. The App allows users to build their own custom workouts either through specifically targetting specific muscles, or by search for exercises for generically. Once this workout is build the user is then able to take the app with them to the gym in which the specific companion page will guide them through their workout. All exercises are saved on our own database allowing the user to recall a previous workout for them to complete. curlFriend also uses Firebase Authentication to allow users to Login.
+The front end is a mobile app for ios and android built using react native and expo. It makes calls to a server for workouts, muscles, exercises and users. The App allows users to build their own custom workouts either through specifically targeting specific muscles, or by searching for exercises for more generic exercises. Once this workout is build the user is then able to take the app with them to the gym in which the built in companion page will guide them through their workout. All exercises/workouts are saved on our own database allowing the user to recall a previous workout for them to complete. curlFriend also uses Firebase Authentication to allow users to Login.
 
 ## Back End
 Here is a link to the Back End Repo/ReadMe for curlFriend - https://github.com/charlie-wild/Workout-Planner-BE
